@@ -1,6 +1,6 @@
 variable "cluster-name" {
  #default = "levelup-tf-eks-demo"
-  default = "rodeo-eks"
+  default = "3tw3-y3-d3-eks"
   type    = string
 }
 
